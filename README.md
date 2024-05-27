@@ -44,24 +44,6 @@ Register a new account or log in with an existing account.
 After logging in, you will be redirected to the main chat room page.
 Start chatting with other registered users in real-time.
 
-## Folder Structure
-
-ChatRoom/
-├── css/
-│   ├── login.css
-│   └── style.css
-├── js/
-│   └── script.js
-├── php/
-│   ├── addmsg.php
-│   ├── db.php
-│   ├── index.php
-│   ├── login.php
-│   └── readMsg.php
-├── sql/
-│   └── chatroom.sql
-├── index.html
-└── README.md
 
 ## Screenshots
 1.Login Page
