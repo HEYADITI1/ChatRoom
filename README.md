@@ -43,9 +43,9 @@ Open your web browser and navigate to http://localhost/ChatRoom.
 Register a new account or log in with an existing account.
 After logging in, you will be redirected to the main chat room page.
 Start chatting with other registered users in real-time.
-Folder Structure
-sql
-Copy code
+
+## Folder Structure
+
 ChatRoom/
 ├── css/
 │   ├── login.css
@@ -62,33 +62,35 @@ ChatRoom/
 │   └── chatroom.sql
 ├── index.html
 └── README.md
-Screenshots
-Login Page
 
-Registration Page
+## Screenshots
+#Login Page
 
-Chat Room
+#Registration Page
 
-Technologies Used
-Frontend:
+#Chat Room
+
+## Technologies Used
+#Frontend:
 
 HTML
 CSS
 JavaScript
-Backend:
+
+#Backend:
 
 PHP
 MySQL
-Contributing
+
+##Contributing
 Contributions are welcome! Please follow the steps below to contribute to this project:
 
-Fork the repository.
+##Fork the repository.
 Create your feature branch (git checkout -b feature/new-feature).
 Commit your changes (git commit -am 'Add some feature').
 Push to the branch (git push origin feature/new-feature).
 Create a new Pull Request.
 
-sql
 
 
 
