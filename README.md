@@ -7,11 +7,9 @@ ChatRoom is a simple chat room application built using HTML, CSS, JavaScript, PH
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
