@@ -64,28 +64,28 @@ ChatRoom/
 └── README.md
 
 ## Screenshots
-#Login Page
+1.Login Page
 
-#Registration Page
+2.Registration Page
 
-#Chat Room
+3.Chat Room
 
 ## Technologies Used
-#Frontend:
+Frontend:
 
 HTML
 CSS
 JavaScript
 
-#Backend:
+Backend:
 
 PHP
 MySQL
 
-##Contributing
+## Contributing
 Contributions are welcome! Please follow the steps below to contribute to this project:
 
-##Fork the repository.
+## Fork the repository.
 Create your feature branch (git checkout -b feature/new-feature).
 Commit your changes (git commit -am 'Add some feature').
 Push to the branch (git push origin feature/new-feature).
