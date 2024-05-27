@@ -47,11 +47,17 @@ ChatRoom is a simple chat room application built using HTML, CSS, JavaScript, PH
 
 
 ## Screenshots
-1.Login Page
+1.Login Page/Registration Page
 
-2.Registration Page
+
+![Screenshot (298)](https://github.com/HEYADITI1/ChatRoom/assets/115147637/2eddea6a-9493-4442-8d6f-26e56e6bf0b6)
+
 
 3.Chat Room
+
+
+![Screenshot (299)](https://github.com/HEYADITI1/ChatRoom/assets/115147637/836d00c4-4cb8-4453-9f75-af5a13bfd86f)
+![Screenshot (301)](https://github.com/HEYADITI1/ChatRoom/assets/115147637/2484f0a4-5f00-4f4e-9be5-d0fa80d7d0e7)
 
 ## Technologies Used
 Frontend:
